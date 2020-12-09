@@ -1,0 +1,43 @@
+.description{
+    font-size: 140%;
+}
+
+.resume{
+    color: rgb(204, 204, 204);
+    margin-top: 12%;
+    margin-bottom: 3%;
+}
+
+.rounded1{
+    width: 100%;
+    border-top: 2px solid #bbb;
+    border-radius: 5px;
+}
+
+.featuredD{
+    margin-bottom: 3%;
+    font-size: 125%;
+    text-align: center;
+    color: black;
+}
+
+.MyPhoto{
+    width: 45%;
+    margin-left: 3%;
+}
+
+.email-send{
+    width: 80%;
+    margin-top: 10%;
+    margin-bottom: 0;
+    color: white;
+    background-color: #7bcaff;
+}
+
+div.card-register.card.bg-primary{
+    width: 100%;
+}
+
+h3.title.mx-auto{
+    font-size: 180%;
+}
