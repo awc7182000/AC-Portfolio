@@ -23,12 +23,13 @@
 
 .MyPhoto{
     width: 45%;
+    height: 50%;
     margin-left: 3%;
 }
 
 .email-send{
     width: 80%;
-    height: 513px;
+
     margin-top: 10%;
     margin-bottom: 0;
     color: white;
